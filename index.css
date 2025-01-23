@@ -1,0 +1,36 @@
+table {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-collapse: collapse;
+    width:100%
+}
+td,th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even){
+    background-color: antiquewhite;
+}
+
+#kevin {
+    color:#000000;
+}
+.linha-red {
+    color:crimson;
+    border-bottom:1px solid #030303;
+}
+.linha-final {
+    color:rgb(0, 0, 0);
+    border-bottom:1px solid #030303;
+}
+.form-label {
+    color:rgb(0, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+}
+input.bg-input {
+    background-color: #fbf2b3;
+}
+.foto {
+    border: 2px solid black;
+}
